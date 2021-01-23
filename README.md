@@ -31,6 +31,7 @@ Tools untuk mengubah tampilan Termux:v
 Download aplikasi termux disini [DOWNLOAD](https://play.google.com/store/apps/details?id=com.termux) 
 
 #Channel
+
 -Subscribe [Youtube](https://www.youtube.com/channel/UCvMa5CrbFupUIYwHsxBkYiQ?sub_confirmation=1)
 
 #Media Social
