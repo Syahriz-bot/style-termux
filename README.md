@@ -34,6 +34,7 @@ Download aplikasi termux disini [DOWNLOAD](https://play.google.com/store/apps/de
 -Subscribe [Youtube](https://www.youtube.com/channel/UCvMa5CrbFupUIYwHsxBkYiQ?sub_confirmation=1)
 
 #Media Social
+
 -[Instagram](https://www.instagram.com/_.riz.s)
 
 -[Linktree](https://linktr.ee/syahriz)
