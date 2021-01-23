@@ -1,9 +1,9 @@
 
 
-echo "youtube : Din-zUgex95"
+echo "youtube : Hariz Syahmi"
 
 
 
 
-      echo "     GAK SUKA   "
-      echo "  TERSERAH GW ASUUU  "
+      echo "     TERMUX AJA   "
+      echo "  FOLLOW INSTAGRAM GW  "
