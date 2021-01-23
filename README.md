@@ -13,7 +13,7 @@
 <div align="center">
     <img alt="Style-Termux" src ="https://user-images.githubusercontent.com/76637109/105575431-92931880-5da6-11eb-81c9-26cb5836c224.jpg" width="320">
 
-# Hai 👋🏻
+# Hai 👋🏻 Teman - Teman Semua
 
 Tools untuk mengubah tampilan Termux:v
 </div>
